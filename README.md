@@ -8,6 +8,10 @@ This project is an implementation of the classic Tic-Tac-Toe game, featuring an 
 - **Draw or Lose**: The player can only draw or lose, with the AI always making the optimal moves.
 - **Simple GUI**: The game features a user-friendly interface built with Pygame, allowing easy interaction with the Tic-Tac-Toe board.
 
+## Future Update
+- TODO : 
+-       Add Difficulty level
+  
 ## Installation and Running the Game
 
 To get started, follow these steps:
@@ -17,3 +21,7 @@ git clone https://github.com/yourusername/unbeatable-tictactoe.git
 cd unbeatable-tictactoe
 pip install -r requirements.txt
 python tic_tac_toe.py
+
+
+
+
